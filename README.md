@@ -13,7 +13,7 @@ But you can get unlimited dice rolls and five chances for free. There are really
 
 ---
 
-How to use:
+**How to use:**
 
 1. Enter the application, the interface is as shown:
    
