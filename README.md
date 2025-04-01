@@ -41,7 +41,7 @@ But you can get unlimited dice rolls and five chances for free. There are really
 
    ![alt text](https://github.com/CMDR-WARD/WDED_NAME_GENERATOR/blob/master/Media/result.gif)
    
-   the script will keep refreshing the name until it contains the word you want.
+   The script will keep refreshing the name until it contains your keyword.
 
 * You can stop the script by pressing TAB in any case.
 
