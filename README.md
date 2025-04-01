@@ -55,4 +55,5 @@ But you can get unlimited dice rolls and five chances for free. There are really
 
 ---
 
+Wish all cmdrs can get the name they want.
 I am a c# beginner, if there are any bugs please give me feedback) o7
