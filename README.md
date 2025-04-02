@@ -50,8 +50,8 @@ But you can get unlimited dice rolls and five chances for free. There are really
 **Tips:**
 
 * Not all words can be found. If you can't find them for a long time, I suggest trying another word.
-* Try searching for the words you want on the map. If there are sites with that name, they will most likely be refreshed and appear.
-* This method is not as good as a custom name costing 5000 arx. If you can afford 5000 arx, it is recommended to use the normal in-game method.
+* Try searching for the words you want on galaxy map. If there are sites with that name, they will most likely be refreshed and appear.
+* This script is not as good as a custom name costing 5000 arx. If you can afford 5000 arx, it is recommended to use the normal in-game method.
 
 ---
 
