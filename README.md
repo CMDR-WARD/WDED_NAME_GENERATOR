@@ -4,7 +4,7 @@
 ---
 
 FDev have launched System Colonisation on February 26, 2025.
-details: https://elite-dangerous.fandom.com/wiki/System_Colonisation
+details: [System Colonisation | Elite Dangerous Wiki - Fandom](https://elite-dangerous.fandom.com/wiki/System_Colonisation)
 
 ---
 
