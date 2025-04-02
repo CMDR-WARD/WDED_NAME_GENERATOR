@@ -55,7 +55,7 @@ But you can get unlimited dice rolls and five chances for free. There are really
 
 ---
 
-Latest version [v1.0](https://github.com/user-attachments/files/19557182/WDED_NAME_GENERATOR_v1.0.zip)
+Latest version for download: [v1.0](https://github.com/user-attachments/files/19557182/WDED_NAME_GENERATOR_v1.0.zip)
 
 Wish all cmdrs can get the name they want.
 
